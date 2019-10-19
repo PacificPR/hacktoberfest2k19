@@ -8,3 +8,5 @@ stackoverflow.com
 github.com
 nkyoung.com
 w3schools.com
+bing.com
+reddit.com

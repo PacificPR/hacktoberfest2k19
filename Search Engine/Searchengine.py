@@ -9,13 +9,13 @@ def websites():
         #print(url)
     fp.close()
     return urls
-'''def update():
-    fp2=open("C:\\Users\\mruser\\Desktop\\projects\\searches.txt","w")
+def update():
+    fp2=open("./searches.txt","w")
     fp2.write(words)
-'''    
+    
 
 word=input("Enter the search word")
-#word=words.split()
+word=words.split()
 density={}
 c=[]
 def webaccess():
